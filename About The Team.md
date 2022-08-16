@@ -1,4 +1,4 @@
-Our auditing team will consist of three members to begin, but we are constantly networking with talent and will continue to expand, depending on the demand.
+![fudnrugs logo](https://user-images.githubusercontent.com/104836635/184762032-eb1b9162-66fa-4ee8-8c03-5982cc683814.png)
 
 *Team Member 1 - CEO Andeh:* 
 
@@ -13,3 +13,5 @@ Our auditing team will consist of three members to begin, but we are constantly 
 *Team Member 3 - Developer Contagiante:*
 
 'ccc'
+
+Our auditing team will consist of three members to begin, but we are constantly networking with talent and will continue to expand, depending on the demand.
