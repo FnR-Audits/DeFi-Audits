@@ -8,6 +8,8 @@
 
 *Team Member 2 - Developer Vali:*
 
+@vali_dyor on Twitter
+
 'cccc'
 
 *Team Member 3 - Developer Contagiante:*
