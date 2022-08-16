@@ -17,7 +17,7 @@ Now I'm actively developing my expertise in the field of Blockchain Security thr
 
 *Team Member 3 - Developer Contagiante:*
 
-@0xcontagiante on twitter 
+@0xcontagiante on Twitter 
 
 "I am a passionate developer that has been into the space for the past 2 years developing smart contract, I discovered that most project don't really care and give a lot of attention about how much their contract is secure. This was my motivation to start learning more about security of SC, bugs, audits and from that time till now I am constantly developing my skills as a developer and smart contract auditor for a better DeFi"
 
