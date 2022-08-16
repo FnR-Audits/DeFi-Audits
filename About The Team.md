@@ -10,7 +10,10 @@
 
 @vali_dyor on Twitter
 
-'cccc'
+'I graduated as a Software Engineer, then I've been an IT Auditor for 3 years for a large Bank.
+I've discovered the blockchain world in March 2020 and it became a passion for me. 
+Naturally, I've moved from retail trader, to DeFi user, to DeFi builder and finally to smart contract auditor. 
+Now I'm actively developing my expertise in the field of Blockchain Security through more learning and field work.'
 
 *Team Member 3 - Developer Contagiante:*
 
